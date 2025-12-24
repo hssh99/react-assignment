@@ -1,0 +1,32 @@
+export const ipoData = [
+  {
+    id: 1,
+    name: "GO AIR",
+    issueDate: "4th - 7th Oct 2022",
+    issueSize: "₹3600 Crores",
+    priceRange: "₹50-60",
+    minInvest: "₹50,000",
+    lots: "100 Shares/5 Lots",
+    logo: "/goair.png",
+  },
+  {
+    id: 2,
+    name: "BAJAJ ENERGY",
+    issueDate: "4th - 7th Oct 2022",
+    issueSize: "₹3600 Crores",
+    priceRange: "₹50-60",
+    minInvest: "₹50,000",
+    lots: "100 Shares/5 Lots",
+    logo: "/bajajenergy.png",
+  },
+  {
+    id: 3,
+    name: "OYO",
+    issueDate: "To be announced",
+    issueSize: "₹3600 Crores",
+    priceRange: "₹50-60",
+    minInvest: "₹50,000",
+    lots: "100 Shares/5 Lots",
+    logo: "/oyo.webp",
+  },
+];
